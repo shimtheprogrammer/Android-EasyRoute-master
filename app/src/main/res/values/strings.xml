@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Easy Route</string>
+    <string name="title_activity_maps">Easy Route</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="str_btn_draw">Draw Route</string>
+    <string name="str_btn_report">Send Report</string>
+    <string name="str_btn_submit">Submit</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="str_btn">Open Popup Menu</string>
+    <string name="action1">Free</string>
+    <string name="action2">Moderate</string>
+    <string name="action3">Heavy</string>
+
+</resources>
